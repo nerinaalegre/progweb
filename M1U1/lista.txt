@@ -1,7 +1,3 @@
 galletitas
 pan
 mermelada
-banana
-manzana
-palta 
-naranja
