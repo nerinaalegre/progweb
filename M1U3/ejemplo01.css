@@ -1,0 +1,60 @@
+h1{
+    text-align: center;
+    background-color: blueviolet;
+    font-family: Arial;
+    font-weight: 900;
+    text-shadow: -3px 0px 20px rgba(0,0,0,1);
+    font-size: 40px;
+}
+
+h2{
+    color: crimson;
+    font-family: Arial;
+    font-size: 30px;
+    text-shadow: -3px 4px 13px rgba(0,0,0,0.83)
+}
+
+ul{
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+ol{
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+p{
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+img{
+    filter: grayscale(100%);
+-webkit-filter: grayscale(100%);
+-moz-filter: grayscale(100%);
+}
+.caja{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    box-shadow: -3px 20px 16px -19px rgba(0,0,0,1);
+-webkit-box-shadow: -3px 20px 16px -19px rgba(0,0,0,1);
+-moz-box-shadow: -3px 20px 16px -19px rgba(0,0,0,1);
+} 
+.destacados{
+    color: red;
+}
+
+#caja2{
+    width: 300px;
+    height: 250px;  
+    background-color: crimson;
+    border-top: 10px double #000000;
+border-right: 10px double #000000;
+border-bottom: 10px double #000000;
+border-left: 10px double #000000;
+}
